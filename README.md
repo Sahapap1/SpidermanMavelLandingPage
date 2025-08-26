@@ -16,7 +16,7 @@ Welcome to the Spider-Man Marvel Landing Page project! 🕸️ This landing page
 - **Tailwind CSS**: A utility-first CSS framework for fast and customizable styling. 🌐
 - **JavaScript**: For dynamic behavior and smooth animations. 💻
 - **Stitch**: Code generation tool that helped with some of the structure and layout of this project. ⚡
-- **FontAwesome**: (Optional, if you use it) For hero icons and SVGs. 🖼️
+
 
 ## Installation 📥
 
